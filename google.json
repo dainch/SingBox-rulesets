@@ -821,7 +821,7 @@
         "gstatic.com",
         "googleusercontent.com",
         "googlevideo.com",
-        "youtube.com",
+        "github.com",
         "ytimg.com",
         "ggpht.com",
         "google.co.jp",
@@ -829,7 +829,8 @@
         "google.com.hk"
       ],
       "domain_keyword": [
-        "google"
+        "google",
+        "github"
       ]
     }
   ]
