@@ -35,9 +35,12 @@
         "segment.io",
         "sentry.io",
         "stripe.com",
-        "turn.livekit.cloud"
+        "turn.livekit.cloud",
+        "google.com",
+        "googleapis.com"
       ],
-      "domain_keyword": "openai"
+      "domain_keyword": "openai",
+      "domain_keyword": "google"
     }
   ]
 }
