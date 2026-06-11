@@ -39,8 +39,10 @@
         "google.com",
         "googleapis.com"
       ],
-      "domain_keyword": "openai",
-      "domain_keyword": "google"
+      "domain_keyword": [
+        "openai",
+        "google"
+      ]
     }
   ]
 }
