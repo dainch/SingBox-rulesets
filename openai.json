@@ -37,11 +37,19 @@
         "stripe.com",
         "turn.livekit.cloud",
         "google.com",
-        "googleapis.com"
+        "googleapis.com",
+        "googletagmanager.com",
+        "googletagservices.com",
+        "googlesyndication.com",
+        "google-analytics.com"
       ],
       "domain_keyword": [
         "openai",
-        "google"
+        "google",
+        "googleapis",
+        "google-analytics",
+        "googlesyndication",
+        "googletagmanager"
       ]
     }
   ]
