@@ -30,6 +30,8 @@
         "oaiusercontent.com",
         "observeit.net",
         "openai.com",
+        "claude.com",
+        "claude.ai",
         "openaiapi-site.azureedge.net",
         "openaicom.imgix.net",
         "segment.io",
@@ -45,6 +47,7 @@
       ],
       "domain_keyword": [
         "openai",
+        "claude",
         "google",
         "googleapis",
         "google-analytics",
