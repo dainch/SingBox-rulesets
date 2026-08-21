@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "registry.npmjs.org"
+      ],
+      "domain_suffix": [
+        "awesome-dsh-plugin.com",
+        "npmjs.org"
+      ]
+    }
+  ]
+}
